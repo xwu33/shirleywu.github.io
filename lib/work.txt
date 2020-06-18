@@ -1,0 +1,49 @@
+吴雪
+===========
+
+PHP Developer
+Web Application Developer
+
+Contact information
+-----------
+
+* xwu33@crimson.ua.edu
+* 205-239-4515
+* 800 Energy Center Blvd, Apt 605, Northport, AL, 35473
+
+
+工作能力
+-----------
+
+* 熟练掌握JavaScript、HTML\CSS，
+* 熟悉AngularJS、ReactJs前端框架，
+* 熟悉Webpack、Fis、Rollup等前端工程工具，
+* 熟悉PHP、NodeJS等服务端语言。
+
+项目经验
+-----------
+
+* 百度贴吧
+* 百度业务监控平台
+* 前端性能探针
+
+学术成果
+-----------
+
+* Asymmetric multiple-image encryption based on the cascaded fractional Fourier transform, SCI(IF: 2.319)
+* Application of linear canonical transform correlation for detection of linear frequency modulated signals, SCI(IF: 0.873)
+* Image encryption based on the iterative fractional Fourier transform and a novel pixel scrambling technique, EI
+* 一种基于压缩感知的多图像加密和解密方法, 专利号:201510907549
+
+
+获得荣誉
+-----------
+* 2016 北京市优秀毕业生、北京理工大学优秀毕业生
+* 2015 国家奖学金、优秀研究生
+* 2014 优秀研究生
+
+
+学历信息
+-----------
+
+* 2013-2016 北京理工大学 信息安全与对抗 硕士
